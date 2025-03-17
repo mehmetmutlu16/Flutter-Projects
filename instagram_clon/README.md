@@ -1,16 +1,12 @@
-# instagram_clon
+📸 Instagram Clone – Flutter & Firebase 🚀
+Bu proje, Instagram’ın temel özelliklerini barındıran, Flutter ve Firebase kullanılarak geliştirilen bir sosyal medya uygulamasıdır. Fotoğraf paylaş, beğen, yorum yap ve takip et!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Özellikler
+✅ Kullanıcı Kayıt ve Giriş: Firebase Authentication ile güvenli kimlik doğrulama
+✅ Fotoğraf Paylaşma: Kullanıcılar fotoğraflarını yükleyebilir ve paylaşabilir
+✅ Beğeni ve Yorum: Gönderilere beğeni bırakabilir ve yorum yapabilirsin
+✅ Gerçek Zamanlı Akış: Firebase Firestore ile anlık veri güncellenmesi
+✅ Takip Sistemi: Kullanıcılar birbirini takip edebilir ve yalnızca takip ettiklerinin gönderilerini görebilir
+✅ Profil Sayfası: Kullanıcı adı, profil fotoğrafı ve paylaşımlar
+✅ Story (Hikaye) Paylaşma: 24 saat sonra kaybolan hikayeler
+✅ Bildirimler: Beğeni, yorum ve takip bildirimleri
