@@ -1,16 +1,11 @@
-# rickandmorty
+🚀 Rick and Morty Karakter Tanıma Uygulaması
+Interdimensional Adventure Awaits!
 
-A new Flutter project.
+Bu uygulama, Rick and Morty evrenindeki karakterleri keşfetmeni sağlayan, şık ve hızlı bir Flutter uygulamasıdır. Favori karakterlerini seçebilir, detaylı bilgilerini görüntüleyebilir ve çılgın çoklu evrende kaybolmadan favorilerini kaydedebilirsin!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Özellikler
+✅ Tüm karakterleri listele: Rick and Morty API sayesinde yüzlerce karakteri keşfet!
+✅ Favorilere ekleme: Sevdiğin karakterleri tek dokunuşla favorilere ekle ve sonra tekrar görüntüle.
+✅ Karakter detayları: Karakterlerin adı, türü, durumu, yaşadığı yer ve bölümleri hakkında bilgi edin.
+✅ Şık ve modern tasarım: Göz alıcı bir UI ile hızlı ve akıcı bir deneyim sunar.
+✅ Hafif ve performanslı: Flutter’ın gücünü kullanarak hızlı yükleme süreleri ve akıcı geçişler sağlar.
