@@ -1,16 +1,10 @@
-# kur_donusturucu
+💱 Kur Dönüştürücü – Flutter 🚀
+Bu Kur Dönüştürücü uygulaması ile anlık döviz kurlarını takip edebilir ve farklı para birimleri arasında kolayca dönüşüm yapabilirsin. Basit, hızlı ve güvenilir!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Özellikler
+✅ Gerçek Zamanlı Kur Bilgisi: Anlık döviz kurlarıyla güncel veriler
+✅ 200+ Para Birimi Desteği: USD, EUR, TRY ve daha fazlası!
+✅ Kolay Kullanım: Kullanıcı dostu arayüz ile hızlı dönüşüm
+✅ Favori Para Birimleri: En sık kullandığın kurları kaydet
+✅ Grafikler ile Kur Takibi: Son 7 gün veya 30 gün içindeki değişimleri gör
+✅ Offline Kullanım: Son alınan kurları internet olmadan kullan
