@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "355018135943",
+    "project_id": "legends-of-monsterland",
+    "storage_bucket": "legends-of-monsterland.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355018135943:android:4accca353d17b974435b22",
+        "android_client_info": {
+          "package_name": "com.example.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355018135943-a3qk5n11gb6n1phvhodi57e0d4k07d1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokedex",
+            "certificate_hash": "d9a8e067c7f70df13a61d47f549e7c491abe7d32"
+          }
+        },
+        {
+          "client_id": "355018135943-c986dqtm176o0neo61e4i7oda1pt2jh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldGjpymTUSN5vtzdV2EorrYF0TJns2LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355018135943-c986dqtm176o0neo61e4i7oda1pt2jh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
