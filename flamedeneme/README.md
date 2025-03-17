@@ -1,16 +1,9 @@
-# flamedeneme
+🕹️ Flappy Bird - Flutter & Flame 🚀
+🔥 Flame Engine ile geliştirilen, bağımlılık yapıcı ve eğlenceli bir Flappy Bird klonu! Uç, engelleri aş ve en yüksek skoru yapmaya çalış!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎮 Özellikler
+✅ Flame Engine kullanımı: Performanslı ve optimize edilmiş oyun deneyimi
+✅ Basit ama zorlu oynanış: Tek dokunuşla kuşu uçur, borulara çarpmadan ilerle!
+✅ Dinamik skor sistemi: Skorunu artır, arkadaşlarına meydan oku!
+✅ Ses efektleri ve animasyonlar: Uçarken kanat çırpma, çarpınca patlama efekti
+✅ Rastgele oluşturulan borular: Her oyunda farklı düzenlemeler ile sınırsız eğlence
